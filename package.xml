@@ -10,7 +10,7 @@
   <email>chuck@horde.org</email>
   <active>yes</active>
  </lead>
- <date>2017-09-19</date>
+ <date>2017-10-30</date>
  <version>
   <release>2.0.4</release>
   <api>1.0.0</api>
@@ -28,6 +28,7 @@
    <dir name="doc">
     <dir name="Horde">
      <dir name="Thrift">
+      <file name="CHANGES" role="doc" />
       <file name="COPYING" role="doc" />
      </dir> <!-- /doc/Horde/Thrift -->
     </dir> <!-- /doc/Horde -->
@@ -83,6 +84,7 @@
  </dependencies>
  <phprelease>
   <filelist>
+   <install as="CHANGES" name="doc/Horde/Thrift/CHANGES" />
    <install as="COPYING" name="doc/Horde/Thrift/COPYING" />
    <install as="Horde/Thrift.php" name="lib/Horde/Thrift.php" />
    <install as="Horde/Thrift/thrift_root/Thrift.php" name="lib/Horde/Thrift/thrift_root/Thrift.php" />
@@ -217,7 +219,7 @@
    <stability>
     <release>stable</release>
     <api>stable</api></stability>
-   <date>2017-09-19</date>
+   <date>2017-10-30</date>
    <license uri="http://www.apache.org/licenses/LICENSE-2.0">Apache 2.0</license>
    <notes>
 * 
