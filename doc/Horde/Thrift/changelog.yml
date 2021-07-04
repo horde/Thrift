@@ -1,4 +1,15 @@
 ---
+3.0.1:
+  api: 1.0.0
+  state:
+    release: alpha
+    api: alpha
+  date: 2021-07-04
+  license:
+    identifier: Apache 2.0
+    uri: http://www.apache.org/licenses/LICENSE-2.0
+  notes: |+
+    
 3.0.0:
   api: 1.0.0
   state:
