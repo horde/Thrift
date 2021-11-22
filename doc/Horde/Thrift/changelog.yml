@@ -8,8 +8,9 @@
   license:
     identifier: Apache 2.0
     uri: http://www.apache.org/licenses/LICENSE-2.0
-  notes: |+
-    
+  notes: |
+    [rla] Nominally release for PHP 8.
+    |+
 3.0.0:
   api: 1.0.0
   state:

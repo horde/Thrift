@@ -24,4 +24,4 @@ license:
   uri: http://www.apache.org/licenses/LICENSE-2.0
 dependencies:
   required:
-    php: ^7
+    php: ^7 || ^8
