@@ -14,17 +14,11 @@
     "version": "2.0.4",
     "time": "2017-11-11",
     "repositories": [
-        {
-            "type": "pear",
-            "url": "https://pear.horde.org"
-        }
     ],
     "require": {
         "php": "^5.3 || ^7"
     },
     "replace": {
-        "pear-pear.horde.org/Horde_Thrift": "2.*",
-        "pear-horde/Horde_Thrift": "2.*"
     },
     "autoload": {
         "psr-0": {
